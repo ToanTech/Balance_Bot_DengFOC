@@ -28,7 +28,7 @@
 
 - MPU6050接线端子套装  两头是4p端子，接有一根黑线GND，一根红线VCC，一根白线SDA，一根黄线SCL。
 
-<div align=center><img src="https://cdn.nlark.com/yuque/0/2022/jpeg/29556705/1658732189353-78da8c18-0907-4a16-ae72-cf6b72dbde86.jpeg#clientId=ud7e80494-18d0-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=1008&id=uf4df3462&margin=%5Bobject%20Object%5D&name=55b902b26434df53b378a106f7e21df.jpg&originHeight=4032&originWidth=3024&originalType=binary&ratio=1&rotation=0&showTitle=false&size=7156971&status=done&style=none&taskId=ua7c97c9e-2466-4d18-8dfb-79677ba98a6&title=&width=756" width="50%"></div>
+<div align=center><img src="https://cdn.nlark.com/yuque/0/2022/jpeg/29556705/1658733250205-eac9b87a-b828-424f-b3dd-8a16dfbb7213.jpeg?x-oss-process=image/auto-orient,1#clientId=ud7e80494-18d0-4&crop=0&crop=0&crop=1&crop=1&from=drop&height=1344&id=ude05c959&name=f00aaf0db7439a537d264c95ea70ee6.jpg&originHeight=4032&originWidth=3024&originalType=binary&ratio=1&rotation=90&showTitle=false&size=5662012&status=done&style=none&taskId=u048250d8-770b-4a6f-ab63-e768e3007e9&title=&width=1008" width="50%"></div>
 
 - 电源接线开关
 ## 3.组装步骤
