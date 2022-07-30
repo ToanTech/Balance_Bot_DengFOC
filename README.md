@@ -39,7 +39,7 @@
 
 - MPU6050陀螺仪接线端子红色线代表VCC，黑色线代表GND，黄色线代表SCL，白色线代表SDA，接线端子一端MPU6050连接，一端与AS5600编码器相连。
 
-<div align=center><img src="https://cdn.nlark.com/yuque/0/2022/png/29556705/1659198691486-75ec0549-a6d6-44f8-97a8-d58b49bc9780.png#clientId=uf7e0ba99-3f45-4&crop=0&crop=0&crop=1&crop=1&from=ui&id=u2da1725b&margin=%5Bobject%20Object%5D&name=f00aaf0db7439a537d264c95ea70ee6.png&originHeight=4032&originWidth=3024&originalType=binary&ratio=1&rotation=0&showTitle=false&size=5662012&status=done&style=none&taskId=ub0c5775b-dabf-43d5-acc4-88e31da14fa&title=" width="50%"></div>
+<div align=center><img src="https://cdn.nlark.com/yuque/0/2022/png/29556705/1659198691486-75ec0549-a6d6-44f8-97a8-d58b49bc9780.png#clientId=uf7e0ba99-3f45-4&crop=0&crop=0&crop=1&crop=1&from=ui&id=u2da1725b&margin=%5Bobject%20Object%5D&name=f00aaf0db7439a537d264c95ea70ee6.png&originHeight=4032&originWidth=3024&originalType=binary&ratio=1&rotation=0&showTitle=false&size=5662012&status=done&style=none&taskId=ub0c5775b-dabf-43d5-acc4-88e31da14fa&title="></div>
 
 - 电机1三线连接到DengFoc M0端从左到右分别对应白、黑、红，电机2连接到DengFoc M1端从左到右分别对应黑、白、红。
 
