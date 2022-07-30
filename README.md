@@ -28,7 +28,8 @@
 
 - MPU6050接线端子套装  两头是4p端子，接有一根黑线GND，一根红线VCC，一根白线SDA，一根黄线SCL。
 
-<div align=center><img src="https://cdn.nlark.com/yuque/0/2022/jpeg/29556705/1659199176817-4ff84f05-202e-45e6-b7cf-7b2895b88746.jpeg?x-oss-process=image/auto-orient,1#clientId=u01c7f9a2-a240-4&crop=0&crop=0&crop=1&crop=1&from=ui&height=1344&id=u08a1365a&margin=%5Bobject%20Object%5D&name=55b902b26434df53b378a106f7e21df.jpg&originHeight=4032&originWidth=3024&originalType=binary&ratio=1&rotation=90&showTitle=false&size=7156971&status=done&style=none&taskId=u34aafb15-798f-4b08-80b4-8296d653c32&title=&width=1008" width="50%"></div>
+<div align=center><img src="https://cdn.nlark.com/yuque/0/2022/jpeg/29556705/1659199176817-4ff84f05-202e-45e6-b7cf-7b2895b88746.jpeg?x-oss-process=image/auto-orient,1#clientId=u01c7f9a2-a240-4&crop=0&crop=0&crop=1&crop=1&from=ui&height=1344&id=u08a1365a&margin=%5Bobject%20Object%5D&name=55b902b26434df53b378a106f7e21df.jpg&originHeight=4032&originWidth=3024&originalType=binary&ratio=1&rotation=90&showTitle=false&size=7156971&status=done&style=none&taskId=u34aafb15-798f-4b08-80b4-8296d653c32&title=&width=1008" width="50%">
+</div>
 
 - 电源接线开关
 ## 3.组装步骤
@@ -39,7 +40,7 @@
 
 - MPU6050陀螺仪接线端子红色线代表VCC，黑色线代表GND，黄色线代表SCL，白色线代表SDA，接线端子一端MPU6050连接，一端与AS5600编码器相连。
 
-<div align=center><img src="https://cdn.nlark.com/yuque/0/2022/png/29556705/1659199195400-4f001347-8056-4720-be24-89b4fb249f0b.png#clientId=u01c7f9a2-a240-4&crop=0&crop=0&crop=1&crop=1&from=ui&height=1344&id=u5e60fcba&margin=%5Bobject%20Object%5D&name=f00aaf0db7439a537d264c95ea70ee6.png&originHeight=4032&originWidth=3024&originalType=binary&ratio=1&rotation=90&showTitle=false&size=5662012&status=done&style=none&taskId=u1edc2d75-fe12-450f-a505-8749900a7c0&title=&width=1008" width="50%"></div>
+<div align=center><img src="https://cdn.nlark.com/yuque/0/2022/png/29556705/1659198691486-75ec0549-a6d6-44f8-97a8-d58b49bc9780.png#clientId=uf7e0ba99-3f45-4&crop=0&crop=0&crop=1&crop=1&from=ui&id=u2da1725b&margin=%5Bobject%20Object%5D&name=f00aaf0db7439a537d264c95ea70ee6.png&originHeight=483&originWidth=690&originalType=binary&ratio=1&rotation=0&showTitle=false&size=5662012&status=done&style=none&taskId=ub0c5775b-dabf-43d5-acc4-88e31da14fa&title=" width="50%"></div>
 
 - 电机1三线连接到DengFoc M0端从左到右分别对应白、黑、红，电机2连接到DengFoc M1端从左到右分别对应黑、白、红。
 
