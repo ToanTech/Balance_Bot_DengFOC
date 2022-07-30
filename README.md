@@ -28,7 +28,7 @@
 
 - MPU6050接线端子套装  两头是4p端子，接有一根黑线GND，一根红线VCC，一根白线SDA，一根黄线SCL。
 
-<div align=center><img src="https://cdn.nlark.com/yuque/0/2022/jpeg/29556705/1659199176817-4ff84f05-202e-45e6-b7cf-7b2895b88746.jpeg?x-oss-process=image/auto-orient,1#clientId=u01c7f9a2-a240-4&crop=0&crop=0&crop=1&crop=1&from=ui&height=1344&id=u08a1365a&margin=%5Bobject%20Object%5D&name=55b902b26434df53b378a106f7e21df.jpg&originHeight=4032&originWidth=3024&originalType=binary&ratio=1&rotation=90&showTitle=false&size=7156971&status=done&style=none&taskId=u34aafb15-798f-4b08-80b4-8296d653c32&title=&width=1008" width="50%">
+<div align=center><img src="https://cdn.nlark.com/yuque/0/2022/jpeg/29556705/1659201067931-e3aa7a5b-7510-4e3d-8974-fd57ee1157d7.jpeg#clientId=ud7d1bedd-68cc-4&crop=0&crop=0&crop=1&crop=1&from=ui&height=704&id=u73b69d96&margin=%5Bobject%20Object%5D&name=f5f324771a5a51dc7e7c265d6adc389.jpg&originHeight=1079&originWidth=828&originalType=binary&ratio=1&rotation=90&showTitle=false&size=146229&status=done&style=none&taskId=u9754f2ce-8d11-442b-a1ff-7149466b6e3&title=&width=540" width="50%">
 </div>
 
 - 电源接线开关
@@ -36,11 +36,11 @@
 
 - AS5600编码器红色线代表VCC，黑色线代表GND，黄线代表SCL，白色代表SDA。将端子一端的4p端子连接到AS5600对应的端子上。同时将接线端子的另外一端杜邦壳接到DengFoc的排针对应的接口上。
 
-<div align=center><img src="https://cdn.nlark.com/yuque/0/2022/jpeg/29556705/1659200812984-a514b31a-a8ce-46ca-82db-b0b6854f8ea4.jpeg#clientId=ud7d1bedd-68cc-4&crop=0&crop=0&crop=1&crop=1&from=ui&id=u249efc8a&margin=%5Bobject%20Object%5D&name=52ce43a825ebf9aec10c00bf6deb204.jpg&originHeight=1092&originWidth=828&originalType=binary&ratio=1&rotation=0&showTitle=false&size=151325&status=done&style=none&taskId=ua94448ce-195a-4fd3-a3e9-657d09d1afb&title=" width="50%"></div>
+<div align=center><img src="https://cdn.nlark.com/yuque/0/2022/jpeg/29556705/1659200812984-a514b31a-a8ce-46ca-82db-b0b6854f8ea4.jpeg#clientId=ud7d1bedd-68cc-4&crop=0&crop=0&crop=1&crop=1&from=ui&height=720&id=u249efc8a&margin=%5Bobject%20Object%5D&name=52ce43a825ebf9aec10c00bf6deb204.jpg&originHeight=1092&originWidth=828&originalType=binary&ratio=1&rotation=90&showTitle=false&size=151325&status=done&style=none&taskId=ua94448ce-195a-4fd3-a3e9-657d09d1afb&title=&width=546" width="50%"></div>
 
 - MPU6050陀螺仪接线端子红色线代表VCC，黑色线代表GND，黄色线代表SCL，白色线代表SDA，接线端子一端MPU6050连接，一端与AS5600编码器相连。
 
-<div align=center><img src="https://cdn.nlark.com/yuque/0/2022/jpeg/29556705/1659199204424-8401da06-398b-439b-a0c5-9dc8252ded6c.jpeg?x-oss-process=image/auto-orient,1#clientId=u01c7f9a2-a240-4&crop=0&crop=0&crop=1&crop=1&from=ui&height=1344&id=u0c4773ca&margin=%5Bobject%20Object%5D&name=6cc40a7b3f8229de27552fabf990182.jpg&originHeight=4032&originWidth=3024&originalType=binary&ratio=1&rotation=90&showTitle=false&size=7463437&status=done&style=none&taskId=ued572de9-fd09-4d44-aacc-3878531734a&title=&width=1008" width="50%"></div>
+<div align=center><img src="https://cdn.nlark.com/yuque/0/2022/jpeg/29556705/1659200831780-78e20dc2-e16f-48a6-91fd-60df7798abbf.jpeg#clientId=ud7d1bedd-68cc-4&crop=0&crop=0&crop=1&crop=1&from=ui&height=684&id=u02eb61bb&margin=%5Bobject%20Object%5D&name=94712e5c3f730049734a35399d517e4.jpg&originHeight=1064&originWidth=828&originalType=binary&ratio=1&rotation=90&showTitle=false&size=128580&status=done&style=none&taskId=ua71e0b8e-456e-420d-84f2-393db470f93&title=&width=532" width="50%"></div>
 
 - 电机1三线连接到DengFoc M0端从左到右分别对应白、黑、红，电机2连接到DengFoc M1端从左到右分别对应黑、白、红。
 
