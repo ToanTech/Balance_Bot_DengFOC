@@ -28,7 +28,7 @@
 
 - MPU6050接线端子套装  两头是4p端子，接有一根黑线GND，一根红线VCC，一根白线SDA，一根黄线SCL。
 
-<div align=center><img src="https://cdn.nlark.com/yuque/0/2022/jpeg/29556705/1658733250205-eac9b87a-b828-424f-b3dd-8a16dfbb7213.jpeg" width="50%"></div>
+<div align=center><img src="https://cdn.nlark.com/yuque/0/2022/jpeg/29556705/1658732189353-78da8c18-0907-4a16-ae72-cf6b72dbde86.jpeg" width="50%"></div>
 
 - 电源接线开关
 ## 3.组装步骤
