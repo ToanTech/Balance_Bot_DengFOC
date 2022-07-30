@@ -35,7 +35,7 @@
 
 - AS5600编码器红色线代表VCC，黑色线代表GND，黄线代表SCL，白色代表SDA。将端子一端的4p端子连接到AS5600对应的端子上。同时将接线端子的另外一端杜邦壳接到DengFoc的排针对应的接口上。
 
-<div align=center><img src="https://cdn.nlark.com/yuque/0/2022/jpeg/29556705/1658733147161-a7114c72-7787-4d8f-87a1-c37bba2b9bae.jpeg?x-oss-process=image/auto-orient,1#clientId=ud7e80494-18d0-4&crop=0&crop=0&crop=1&crop=1&from=drop&height=1344&id=ueb92c346&margin=%5Bobject%20Object%5D&name=6cc40a7b3f8229de27552fabf990182.jpg&originHeight=4032&originWidth=3024&originalType=binary&ratio=1&rotation=90&showTitle=false&size=7463437&status=done&style=none&taskId=u128e01dd-f329-4b82-90e6-5e01f79f15b&title=&width=1008" width="50%"></div>
+<div align=center><img src="https://cdn.nlark.com/yuque/0/2022/jpeg/29556705/1658733147161-a7114c72-7787-4d8f-87a1-c37bba2b9bae.jpeg?x-oss-process=image#clientId=ud7e80494-18d0-4&crop=0&crop=0&crop=1&crop=1&from=drop&height=1344&id=ueb92c346&margin=%5Bobject%20Object%5D&name=6cc40a7b3f8229de27552fabf990182.jpg&originHeight=4032&originWidth=3024&originalType=binary&ratio=1&rotation=90&showTitle=false&size=7463437&status=done&style=none&taskId=u128e01dd-f329-4b82-90e6-5e01f79f15b&title=&width=1008" width="50%"></div>
 
 - MPU6050陀螺仪接线端子红色线代表VCC，黑色线代表GND，黄色线代表SCL，白色线代表SDA，接线端子一端MPU6050连接，一端与AS5600编码器相连。
 
