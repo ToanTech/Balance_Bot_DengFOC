@@ -22,25 +22,25 @@
 如果你是自行DIY，那么按照上面的接线表格将线接入DengFOC即可；如果你是采用在 [灯哥开源 淘宝店](https://gitee.com/link?target=https%3A%2F%2Fshop564514875.taobao.com%2F) 购买的平衡车套件，那么你会得到**如下所示配套线材**。
 配套接线材料：
 
-- AS5600编码器接线套装 一头是杜邦端子，接有一根黑线GND，一根红线VCC，一根白线SDA，一根黄线SCL，另一端是4p端子。
+- AS5600编码器接线套装 一头是杜邦端子，接有一根黑线GND，一根红线VCC，一根绿线SDA，一根黄线SCL，另一端是4p端子。
 
-<div align=center><img src="https://cdn.nlark.com/yuque/0/2022/jpeg/29556705/1658732386903-efa15b67-b70c-4941-ba27-01360ba33d21.jpeg#clientId=ud7e80494-18d0-4&crop=0&crop=0&crop=1&crop=1&from=drop&height=687&id=ue6ac9170&margin=%5Bobject%20Object%5D&name=82a44fa94f239555ce58f6244a66ed0.jpg&originHeight=2749&originWidth=3024&originalType=binary&ratio=1&rotation=0&showTitle=false&size=2515828&status=done&style=none&taskId=u3d4ff099-0d40-4e27-978a-aae4d85ed18&title=&width=756" width="50%"></div>
+<div align=center><img src="https://cdn.nlark.com/yuque/0/2022/png/29556705/1659606811557-3fd58da0-efc3-47bb-8293-187b3dba2797.png#clientId=ud7d1bedd-68cc-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=472&id=ud6f2fa2b&margin=%5Bobject%20Object%5D&name=image.png&originHeight=590&originWidth=405&originalType=binary&ratio=1&rotation=0&showTitle=false&size=487494&status=done&style=none&taskId=ua1a533ac-4e7c-402c-87a8-6617679ca16&title=&width=324" width="50%"></div>
 
-- MPU6050接线端子套装  两头是4p端子，接有一根黑线GND，一根红线VCC，一根白线SDA，一根黄线SCL。
+- MPU6050接线端子套装  两头是4p端子，接有一根黑线GND，一根红线VCC，一根绿线SDA，一根黄线SCL。
 
-<div align=center><img src="https://cdn.nlark.com/yuque/0/2022/jpeg/29556705/1659201067931-e3aa7a5b-7510-4e3d-8974-fd57ee1157d7.jpeg#clientId=ud7d1bedd-68cc-4&crop=0&crop=0&crop=1&crop=1&from=ui&height=704&id=u73b69d96&margin=%5Bobject%20Object%5D&name=f5f324771a5a51dc7e7c265d6adc389.jpg&originHeight=1079&originWidth=828&originalType=binary&ratio=1&rotation=90&showTitle=false&size=146229&status=done&style=none&taskId=u9754f2ce-8d11-442b-a1ff-7149466b6e3&title=&width=540" width="50%">
+<div align=center><img src="https://cdn.nlark.com/yuque/0/2022/jpeg/29556705/1659610104755-9caaf847-7592-4d4c-8f3c-aff563ba711a.jpeg#clientId=u287477c3-79df-4&crop=0&crop=0&crop=1&crop=1&from=ui&height=424&id=u98924325&margin=%5Bobject%20Object%5D&name=7848c3111388e8f506677babe00cb7a.jpg&originHeight=1699&originWidth=869&originalType=binary&ratio=1&rotation=0&showTitle=false&size=305570&status=done&style=none&taskId=ufe021fad-3843-4d3b-8afb-30c4efa2d44&title=&width=217" width="50%">
 </div>
 
 - 电源接线开关
 ## 3.组装步骤
 
-- AS5600编码器红色线代表VCC，黑色线代表GND，黄线代表SCL，白色代表SDA。将端子一端的4p端子连接到AS5600对应的端子上。同时将接线端子的另外一端杜邦壳接到DengFoc的排针对应的接口上。
+- AS5600编码器红色线代表VCC，黑色线代表GND，黄线代表SCL，绿色代表SDA。将端子一端的4p端子连接到AS5600对应的端子上。同时将接线端子的另外一端杜邦壳接到DengFoc的排针对应的接口上。
 
-<div align=center><img src="https://cdn.nlark.com/yuque/0/2022/jpeg/29556705/1659200812984-a514b31a-a8ce-46ca-82db-b0b6854f8ea4.jpeg#clientId=ud7d1bedd-68cc-4&crop=0&crop=0&crop=1&crop=1&from=ui&height=720&id=u249efc8a&margin=%5Bobject%20Object%5D&name=52ce43a825ebf9aec10c00bf6deb204.jpg&originHeight=1092&originWidth=828&originalType=binary&ratio=1&rotation=90&showTitle=false&size=151325&status=done&style=none&taskId=ua94448ce-195a-4fd3-a3e9-657d09d1afb&title=&width=546" width="50%"></div>
+<div align=center><img src="https://cdn.nlark.com/yuque/0/2022/jpeg/29556705/1659609532018-2ebef674-463a-422e-bd70-61277da809a3.jpeg#clientId=u287477c3-79df-4&crop=0&crop=0&crop=1&crop=1&from=ui&height=480&id=u74dd0407&margin=%5Bobject%20Object%5D&name=c2d90d92e76a6ab94edbb557d137396.jpg&originHeight=1920&originWidth=864&originalType=binary&ratio=1&rotation=0&showTitle=false&size=912841&status=done&style=none&taskId=ub55d2b46-5fd6-4644-90c3-49d35d63199&title=&width=216" width="50%"></div>
 
-- MPU6050陀螺仪接线端子红色线代表VCC，黑色线代表GND，黄色线代表SCL，白色线代表SDA，接线端子一端MPU6050连接，一端与AS5600编码器相连。
+- MPU6050陀螺仪接线端子红色线代表VCC，黑色线代表GND，黄色线代表SCL，绿色线代表SDA，接线端子一端MPU6050连接，一端与AS5600编码器相连。
 
-<div align=center><img src="https://cdn.nlark.com/yuque/0/2022/jpeg/29556705/1659200831780-78e20dc2-e16f-48a6-91fd-60df7798abbf.jpeg#clientId=ud7d1bedd-68cc-4&crop=0&crop=0&crop=1&crop=1&from=ui&height=684&id=u02eb61bb&margin=%5Bobject%20Object%5D&name=94712e5c3f730049734a35399d517e4.jpg&originHeight=1064&originWidth=828&originalType=binary&ratio=1&rotation=90&showTitle=false&size=128580&status=done&style=none&taskId=ua71e0b8e-456e-420d-84f2-393db470f93&title=&width=532" width="50%"></div>
+<div align=center><img src="https://cdn.nlark.com/yuque/0/2022/jpeg/29556705/1659609562931-85ea7041-3c20-42e5-81da-0655e9827b4a.jpeg#clientId=u287477c3-79df-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=868&id=ud2af1925&margin=%5Bobject%20Object%5D&name=3f0d20d6fc2eff7e4885971b875ae95.jpg&originHeight=3472&originWidth=4624&originalType=binary&ratio=1&rotation=0&showTitle=false&size=1827206&status=done&style=none&taskId=uf12aff9d-1899-4b6e-8d65-8923398a93d&title=&width=1156" width="50%"></div>
 
 - 电机1三线连接到DengFoc M0端从左到右分别对应白、黑、红，电机2连接到DengFoc M1端从左到右分别对应黑、白、红。
 
