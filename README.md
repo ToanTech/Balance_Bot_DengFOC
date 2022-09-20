@@ -1,8 +1,8 @@
 **DengFOC平衡车项目**是基于simplefoc开源的[平衡车项目](https://github.com/simplefoc/Arduino-FOC-balancer)，进行结构改进和效果优化后应用在我开源的[DengFOC](https://gitee.com/link?target=https%3A%2F%2Fgithub.com%2FToanTech%2FDeng-s-foc-controller)双路无刷电机驱动器上的DengFOC配套项目。
 
-![balancebot_gif](C:\Users\hp\Documents\GitHub\Balance_Bot_DengFOC\balancebot_gif.gif)
+![balancebot_gif](balancebot_gif.gif)
 
-![get_down](C:\Users\hp\Documents\GitHub\Balance_Bot_DengFOC\get_down.gif)
+![get_down](get_down.gif)
 
 **项目完全开源，你可以根据本Github内容自行白嫖，或者，支持一下灯哥的辛勤劳作，进入灯哥开源TB店购买DengFOC平衡车套件，一键配齐。**
 
