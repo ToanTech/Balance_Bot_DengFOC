@@ -51,7 +51,7 @@
 
 - 电机1三线连接到DengFoc M0端从左到右分别对应白、黑、红，电机2连接到DengFoc M1端从左到右分别对应黑、白、红。
 
-<div align=center><img src="https://cdn.nlark.com/yuque/0/2022/png/29556705/1658723033386-90efd5e1-e491-4202-9ba1-e3fe11924ddb.png#clientId=ud7e80494-18d0-4&crop=0&crop=0&crop=1&crop=1&from=drop&id=uf93a2687&margin=%5Bobject%20Object%5D&name=c6f966013554d56d4bc7ed013528ae2.png&originHeight=483&originWidth=690&originalType=binary&ratio=1&rotation=0&showTitle=false&size=872754&status=done&style=none&taskId=u8ad56c5a-f2b9-4a58-bdcd-ab91f25e82e&title=" width="50%"></div>
+<div align=center><img src="https://cdn.nlark.com/yuque/0/2023/jpeg/29556705/1673070228910-5ec37fb2-88f8-4ca4-9b6e-8bc6071bbd81.jpeg#clientId=u8d4101ea-b663-4&crop=0&crop=0&crop=1&crop=1&from=ui&id=u5ff98f19&margin=%5Bobject%20Object%5D&name=8d53db30ccbb7898d689dc26b2101f0.jpg&originHeight=1785&originWidth=1304&originalType=binary&ratio=1&rotation=0&showTitle=false&size=545188&status=done&style=none&taskId=u7e8f8bbc-4599-456c-890e-add0cc46710&title=" width="50%"></div>
 
 详细安装过程可以观看安装视频，视频中有关于车体各部分的详细安装步骤以及连线步骤。
 <div align=center><img src="https://cdn.nlark.com/yuque/0/2022/jpeg/29556705/1658826979606-d28aae9b-3c3a-4bd8-9e1a-65967c301e7e.jpeg#clientId=ud7e80494-18d0-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=404&id=u55c836cf&margin=%5Bobject%20Object%5D&name=5522f0eed69760f91982180e10e3c55.jpg&originHeight=807&originWidth=1901&originalType=binary&ratio=1&rotation=0&showTitle=false&size=192884&status=done&style=none&taskId=u81d2a174-34f0-4fe1-8281-3d1be218a05&title=&width=951" width="50%"></div>
