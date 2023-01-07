@@ -25,7 +25,7 @@
 | MPU6050 | SDA1,SCL1,3V3,GND |
 | 电池以及电源开关线 | DengFoc 电源端子 |
 
-<div align=center><img src="https://cdn.nlark.com/yuque/0/2022/jpeg/29556705/1658726142877-9f28c112-e2d8-4a41-9511-c2e7cdb84b38.jpeg#clientId=ud7e80494-18d0-4&crop=0&crop=0&crop=1&crop=1&from=drop&id=u8959390c&margin=%5Bobject%20Object%5D&name=jxk.jpg&originHeight=804&originWidth=1306&originalType=binary&ratio=1&rotation=0&showTitle=false&size=670792&status=done&style=none&taskId=u713ed618-7299-4a36-8b2e-979d1fbe761&title=" width="50%"></div>
+<div align=center><img src="https://cdn.nlark.com/yuque/0/2023/png/29556705/1673063969912-11a8a680-f180-4ebb-81ec-b18d024a21ef.png#clientId=u8d4101ea-b663-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=474&id=u1d5cfb25&margin=%5Bobject%20Object%5D&name=5a6d1332478106ae221b35f65e3a17c.png&originHeight=592&originWidth=675&originalType=binary&ratio=1&rotation=0&showTitle=false&size=267736&status=done&style=none&taskId=ue39e4f0b-9bbb-4578-b9f7-c3e432f4b48&title=&width=540"></div>
 如果你是自行DIY，那么按照上面的接线表格将线接入DengFOC即可；如果你是采用在 [灯哥开源 淘宝店](https://gitee.com/link?target=https%3A%2F%2Fshop564514875.taobao.com%2F) 购买的平衡车套件，那么你会得到**如下所示配套线材**。
 配套接线材料：
 
