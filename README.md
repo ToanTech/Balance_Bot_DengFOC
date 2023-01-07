@@ -43,15 +43,14 @@
 
 - AS5600编码器红色线代表VCC，黑色线代表GND，黄线代表SCL，绿色代表SDA。将端子一端的4p端子连接到AS5600对应的端子上。同时将接线端子的另外一端杜邦壳接到DengFoc的排针对应的接口上。
 
-<div align=center><img src="https://cdn.nlark.com/yuque/0/2022/jpeg/29556705/1659609532018-2ebef674-463a-422e-bd70-61277da809a3.jpeg#clientId=u287477c3-79df-4&crop=0&crop=0&crop=1&crop=1&from=ui&height=480&id=u74dd0407&margin=%5Bobject%20Object%5D&name=c2d90d92e76a6ab94edbb557d137396.jpg&originHeight=1920&originWidth=864&originalType=binary&ratio=1&rotation=0&showTitle=false&size=912841&status=done&style=none&taskId=ub55d2b46-5fd6-4644-90c3-49d35d63199&title=&width=216" width="50%"></div>
+<div align=center><img src="https://cdn.nlark.com/yuque/0/2023/jpeg/29556705/1673070228910-5ec37fb2-88f8-4ca4-9b6e-8bc6071bbd81.jpeg#clientId=u8d4101ea-b663-4&crop=0&crop=0&crop=1&crop=1&from=ui&id=u5ff98f19&margin=%5Bobject%20Object%5D&name=8d53db30ccbb7898d689dc26b2101f0.jpg&originHeight=1785&originWidth=1304&originalType=binary&ratio=1&rotation=0&showTitle=false&size=545188&status=done&style=none&taskId=u7e8f8bbc-4599-456c-890e-add0cc46710&title=" width="50%"></div>
 
 - MPU6050陀螺仪接线端子红色线代表VCC，黑色线代表GND，黄色线代表SCL，绿色线代表SDA，接线端子一端MPU6050连接，一端与AS5600编码器相连。
 
 <div align=center><img src="https://cdn.nlark.com/yuque/0/2022/jpeg/29556705/1659609562931-85ea7041-3c20-42e5-81da-0655e9827b4a.jpeg#clientId=u287477c3-79df-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=868&id=ud2af1925&margin=%5Bobject%20Object%5D&name=3f0d20d6fc2eff7e4885971b875ae95.jpg&originHeight=3472&originWidth=4624&originalType=binary&ratio=1&rotation=0&showTitle=false&size=1827206&status=done&style=none&taskId=uf12aff9d-1899-4b6e-8d65-8923398a93d&title=&width=1156" width="50%"></div>
 
-- 电机1三线连接到DengFoc M0端从左到右分别对应白、黑、红，电机2连接到DengFoc M1端从左到右分别对应黑、白、红。
+- 电机1三线连接到DengFoc M0端旋转方向为cw，电机2连接到DengFoc M1端旋转方向为ccw。可通过串口查看旋转方向信息，若旋转方向不对可更换电机三相中任意两相顺序。
 
-<div align=center><img src="https://cdn.nlark.com/yuque/0/2023/jpeg/29556705/1673070228910-5ec37fb2-88f8-4ca4-9b6e-8bc6071bbd81.jpeg#clientId=u8d4101ea-b663-4&crop=0&crop=0&crop=1&crop=1&from=ui&id=u5ff98f19&margin=%5Bobject%20Object%5D&name=8d53db30ccbb7898d689dc26b2101f0.jpg&originHeight=1785&originWidth=1304&originalType=binary&ratio=1&rotation=0&showTitle=false&size=545188&status=done&style=none&taskId=u7e8f8bbc-4599-456c-890e-add0cc46710&title=" width="50%"></div>
 
 详细安装过程可以观看安装视频，视频中有关于车体各部分的详细安装步骤以及连线步骤。
 <div align=center><img src="https://cdn.nlark.com/yuque/0/2022/jpeg/29556705/1658826979606-d28aae9b-3c3a-4bd8-9e1a-65967c301e7e.jpeg#clientId=ud7e80494-18d0-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=404&id=u55c836cf&margin=%5Bobject%20Object%5D&name=5522f0eed69760f91982180e10e3c55.jpg&originHeight=807&originWidth=1901&originalType=binary&ratio=1&rotation=0&showTitle=false&size=192884&status=done&style=none&taskId=u81d2a174-34f0-4fe1-8281-3d1be218a05&title=&width=951" width="50%"></div>
